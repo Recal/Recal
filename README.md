@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1>Hello! :tada:</h1>
-  <b>I'm Recalibrated otherwise known as Recal</b>
+  <b>I'm Recalibrated otherwise known as Recal</b><br>
   
   <details><summary>About me</summary>
     <small>I am a full stack developer.</small><br>
