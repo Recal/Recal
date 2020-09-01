@@ -6,8 +6,8 @@
   <b>I'm Recalibrated otherwise known as Recal</b>
   
   <details><summary>About me</summary>
-    <small>I am a full stack developer.</small>
-    <snall>Pronouns: He/Him</small>
+    <small>I am a full stack developer.</small><br>
+    <snall>Pronouns: He/Him</small><br>
     <small>
       Preferred Vscode Theme: Tokyo Night [Link Here]()
     </small>
