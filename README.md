@@ -12,6 +12,13 @@
     <snall>Pronouns: He/Him</small><br>
     <small>
       Preferred Vscode Theme: Tokyo Night <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">[Link Here]</a>
+    </small><br>
+    <small>
+      I'm currently working on: <b>Nothing</b><br>
+      I'm currently learning: <b>Typescript, Dart and Java.</b>
+    </small><br>
+    <small>
+      Twitter: <a href="https://twitter.com/nerdrecal/">@nerdrecal</a>
     </small>
   </details>
   
@@ -23,7 +30,7 @@
   </details>
   
   <details><summary><b>What languages do I use?</b></summary>
-    I use a lot of langauges, but the main ones would be:<br>
+    I use a lot of languages, but the main ones would be:<br>
     - D<br>
     - Dart<br>
     - Javascript<br>
@@ -38,6 +45,12 @@
         <small>If my Discord doesn't work feel free to send me an email.</small><br>
         Discord: undefined#0010<br>
         Email: recalibratedgh@gmail.com <a href="mailto:recalibratedgh@gmail.com">[Send An Email]</a>
+  </details>
+  
+  <details><summary><b>Links</b></summary>
+    <a href="https://www.typescriptlang.org/">Typescript</a><br>
+    <a href="https://dlang.org/">D</a><br>
+    <a href="https://dart.dev/">Dart</a>
   </details>
 
 
