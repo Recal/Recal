@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>Test</p>
-  <small>Test</small>
+  <small><b>Test</b></small>
 </div>
 
 
