@@ -44,7 +44,7 @@
 <details><summary><b>Contact Info</b></summary>
   <small>If my Discord doesn't work feel free to send me an email.</small><br>
   Discord: undefined#0010<br>
-  Email: recalibratedgh@gmail.com <a href="mailto:recalibratedgh@gmail.com">[Send An Email]</a>
+  Email: recalibratedgh@gmail.com <a href="mailto:hello@recal.club">[Send An Email]</a>
 </details>
   
 <details><summary><b>Links</b></summary>
