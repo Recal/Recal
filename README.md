@@ -7,7 +7,7 @@
   <h1>Hello! :tada:</h1>
   <b>I'm Recalibrated otherwise known as Recal</b><br>
   
-  <details><summary><b>About Me</b></summary>
+  <br><details><summary><b>About Me</b></summary>
     <small>I am a full stack developer.</small><br>
     <snall>Pronouns: He/Him</small><br>
     <small>
