@@ -9,7 +9,7 @@
     <small>I am a full stack developer.</small><br>
     <snall>Pronouns: He/Him</small><br>
     <small>
-      Preferred Vscode Theme: Tokyo Night <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">Link Here</a>
+      Preferred Vscode Theme: Tokyo Night <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">[Link Here]</a>
     </small>
   </details>
   
