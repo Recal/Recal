@@ -14,7 +14,7 @@
   </details>
   
   <details><summary>Github Stats</summary>
-
+        ![](https://github-readme-stats.vercel.app/api?username=recalibrated&show_icons=true&hide_border=true&count_private=true)
   </details>
   
   <details><summary>What languages do I use?</summary>
