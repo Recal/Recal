@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/recalibrated/recalibrated/blob/master/catjam.gif"></img>
+</div>
+
   <h1>Hello! :tada:</h1>
   <b>I'm Recalibrated otherwise known as Recal</b><br>
   
@@ -37,7 +39,6 @@
         Discord: undefined#0010<br>
         Email: recalibratedgh@gmail.com <a href="mailto:recalibratedgh@gmail.com">[Send An Email]</a>
   </details>
-</div>
 
 
 
