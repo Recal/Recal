@@ -1,9 +1,9 @@
 ### Hello! :tada:
 
-<p align="center">
+<div align="center">
   <h1>Test</h1>
   <small>Test</small>
-</p>
+</div>
 
 
 
