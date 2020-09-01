@@ -14,7 +14,6 @@
   </details>
   
   <details><summary>Github Stats</summary>
-      [Title](https://www.somewebsite.com)
   </details>
   
   <details><summary>What languages do I use?</summary>
