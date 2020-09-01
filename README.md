@@ -5,7 +5,7 @@
   <h1>Hello! :tada:</h1>
   <b>I'm Recalibrated otherwise known as Recal</b><br>
   
-  <details><summary>About me</summary>
+  <details><summary><b>About Me</b></summary>
     <small>I am a full stack developer.</small><br>
     <snall>Pronouns: He/Him</small><br>
     <small>
@@ -13,14 +13,14 @@
     </small>
   </details>
   
-  <details><summary>Github Stats</summary>
+  <details><summary><b>Github Stats</b></summary>
         <h1>Github Stats</h1>
         <img src= "https://github-readme-stats.vercel.app/api?username=recalibrated&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"></img><br>
         <h1>Top Languages</h1><br>
         <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=recalibrated"></img>
   </details>
   
-  <details><summary>What languages do I use?</summary>
+  <details><summary><b>What languages do I use?</b></summary>
     I use a lot of langauges, but the main ones would be:<br>
     - D<br>
     - Dart<br>
@@ -32,7 +32,7 @@
     - C++<br>
   </details>
   
-  <details><summary>Contact Info</summary>
+  <details><summary><b>Contact Info</b></summary>
         <small>If my Discord doesn't work feel free to send me an email.</small><br>
         Discord: undefined#0010<br>
         Email: recalibratedgh@gmail.com <a href="mailto:recalibratedgh@gmail.com">[Send An Email]</a>
