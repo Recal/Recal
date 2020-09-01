@@ -30,7 +30,7 @@
   </details>
   
   <details><summary>Contact Info</summary>
-        <small>If my Discord doesn't work feel free to send me an email.</small>
+        <small>If my Discord doesn't work feel free to send me an email.</small><br>
         Discord: undefined#0010<br>
         Email: recalibratedgh@gmail.com <a href="mailto:recalibratedgh@gmail.com">[Send An Email]</a>
   </details>
