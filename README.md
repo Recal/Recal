@@ -14,10 +14,7 @@
   </details>
   
   <details><summary>Github Stats</summary>
-    <h1>Github Stats</h1>
-    [Recals's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recalibrated&show_icons=true&theme=tokyonight)
-     <h1>Top Languages</h1>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      TBA
   </details>
   
   <details><summary>What languages do I use?</summary>
@@ -34,7 +31,7 @@
   
   <details><summary>Contact Info</summary>
        Discord: undefined#0010<br>
-       Email: recalibratedgh@gmail.com [Send An Email](mailto:recalibratedgh@gmail.com)
+       Email: recalibratedgh@gmail.com
   </details>
 </div>
 
