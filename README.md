@@ -17,7 +17,7 @@
         <h1>Github Stats</h1>
         <img src= "https://github-readme-stats.vercel.app/api?username=recalibrated&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"></img><br>
         <h1>Top Languages</h1><br>
-        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=recalibrated&layout=compact"></img>
+        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=recalibrated"></img>
   </details>
   
   <details><summary>What languages do I use?</summary>
