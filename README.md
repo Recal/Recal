@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="catjam.gif"></img>
+  <img src="https://github.com/recalibrated/recalibrated/blob/master/catjam.gif"></img>
   <h1>Hello! :tada:</h1>
   <b>I'm Recalibrated otherwise known as Recal</b><br>
   
