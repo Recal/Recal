@@ -9,7 +9,7 @@
     <small>I am a full stack developer.</small><br>
     <snall>Pronouns: He/Him</small><br>
     <small>
-      Preferred Vscode Theme: Tokyo Night [Link Here]()
+      Preferred Vscode Theme: Tokyo Night <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">Link Here</a>
     </small>
   </details>
   
@@ -30,7 +30,7 @@
   
   <details><summary>Contact Info</summary>
        Discord: undefined#0010<br>
-       Email: recalibratedgh@gmail.com
+        Email: recalibratedgh@gmail.com <a href="mailto:recalibratedgh@gmail.com">[Send An Email]</a>
   </details>
 </div>
 
