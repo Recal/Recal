@@ -1,7 +1,7 @@
 ### Hello! :tada:
 
 <div align="center">
-  <h1>Test</h1>
+  <p>Test</p>
   <small>Test</small>
 </div>
 
