@@ -1,6 +1,6 @@
 ### Hello! :tada:
 
-<cenet>
+<center>
   <h1>Test</h1>
   <small>Test</small>
 </center>
