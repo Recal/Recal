@@ -14,7 +14,7 @@
   </details>
   
   <details><summary>Github Stats</summary>
-      [![Recal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recalibrated)](https://github.com/recalibrated)
+      [![Recal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recalibrated)]
   </details>
   
   <details><summary>What languages do I use?</summary>
