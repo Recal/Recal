@@ -8,6 +8,7 @@
 <b>I'm Recalibrated otherwise known as Recal</b><br>
   
 <br><details><summary><b>About Me</b></summary>
+  <br>
   <small>I am a Full Stack Developer.</small><br>
   <small>Pronouns: <b>He/Him</b></small><br>
   <small>
@@ -20,6 +21,7 @@
   <small>
     Twitter: <a href="https://twitter.com/nerdrecal/">@nerdrecal</a>
   </small>
+  <br>
 </details>
   
 <details><summary><b>Github Stats</b></summary>
@@ -32,6 +34,7 @@
 </details>
   
 <details><summary><b>What languages do I use?</b></summary>
+ <br>
  I use a lot of languages, but the main ones would be:<br>
  - D<br>
  - Dart<br>
@@ -41,6 +44,7 @@
  - Java<br>
  - C<br>
  - C++<br>
+ <br>
 </details>
   
 <details><summary><b>Contact Info</b></summary>
@@ -50,9 +54,11 @@
 </details>
   
 <details><summary><b>Links</b></summary>
+  <br>
   <a href="https://www.typescriptlang.org/">Typescript</a><br>
   <a href="https://dlang.org/">D</a><br>
   <a href="https://dart.dev/">Dart</a>
+  <br>
 </details>
 
 
