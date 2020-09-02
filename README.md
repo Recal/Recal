@@ -48,9 +48,11 @@
 </details>
   
 <details><summary><b>Contact Info</b></summary>
+  <br>
   <small>If my Discord doesn't work feel free to send me an email.</small><br>
   Discord: <b>undefined#0010<b><br>
   Email: <b>hello@recal.club</b> <a href="mailto:hello@recal.club">[Send An Email]</a>
+  <br>
 </details>
   
 <details><summary><b>Links</b></summary>
