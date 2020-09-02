@@ -23,9 +23,9 @@
 </details>
   
 <details><summary><b>Github Stats</b></summary>
-  <h1>Github Stats</h1>
+  <b>Github Stats</b><br>
   <img src= "https://github-readme-stats.vercel.app/api?username=recalibrated&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"></img><br>
-  <h1>Top Languages</h1><br>
+  <b>Top Languages</b><br>
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=recalibrated"></img>
 </details>
   
