@@ -23,10 +23,12 @@
 </details>
   
 <details><summary><b>Github Stats</b></summary>
+  <br>
   <b>Github Stats</b><br>
   <img src= "https://github-readme-stats.vercel.app/api?username=recalibrated&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"></img><br>
   <b>Top Languages</b><br>
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=recalibrated"></img>
+  <br>
 </details>
   
 <details><summary><b>What languages do I use?</b></summary>
