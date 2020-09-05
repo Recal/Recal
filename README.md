@@ -14,7 +14,7 @@
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">[Link Here]</a>
   </small><br>
   <small>
-    I'm currently working on: <b>Nothing</b><br>
+    I'm currently working on: <b>Frontend for a private app</b><br>
     I'm currently learning: <b>Typescript, Dart and Java.</b>
   </small><br>
   <small>
