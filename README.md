@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/recalibrated/recalibrated/blob/master/catjam.gif"></img>
+  <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img>
   <h1>Hello! :tada:</h1>
   <b>I'm Recalibrated otherwise known as Recal</b><br>
 </div>
@@ -26,9 +26,9 @@
 <details><summary><b>Github Stats</b></summary>
   <br>
   <b>Github Stats</b><br>
-  <img src= "https://github-readme-stats.vercel.app/api?username=recalibrated&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"></img><br>
+  <img src= "https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"></img><br>
   <b>Top Languages</b><br>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=recalibrated"></img>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Recal"></img>
   <br>
 </details>
   
