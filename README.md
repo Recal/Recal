@@ -49,7 +49,7 @@
 <details><summary><b>Contact Info</b></summary>
   <br>
   <small>If my Discord doesn't work feel free to send me an email.</small><br>
-  Discord: <b>undefined#0010<b><br>
+  Discord: <b>Recal#0230<b><br>
   Email: <b>hello@recal.club</b> <a href="mailto:hello@recal.club">[Send An Email]</a>
   <br>
 </details>
