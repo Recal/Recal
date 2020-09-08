@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img>
   <h1>Hello! :tada:</h1>
-  <b>I'm Recalibrated otherwise known as Recal</b><br>
+  <b>I'm Recal</b><br>
 </div>
 
 <br><details><summary><b>About Me</b></summary>
