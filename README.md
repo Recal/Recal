@@ -48,7 +48,7 @@
   
 <details><summary><b>Contact Info</b></summary>
   <br>
-  <small>If my Discord doesn't work feel free to send me an email.</small><br>
+  <small>If my Discord doesn't work feel free to send me a message on twitter.</small><br>
   Discord: <b>Recal#0230<b><br>
   <br>
 </details>
