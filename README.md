@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img>
-  <h1>Hello! :tada:</h1>
+  Hello! :tada:
   <b>I'm Recal :wave:</b><br>
 </div>
 
