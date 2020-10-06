@@ -6,7 +6,7 @@
 
 <br><details><summary><b>About Me</b></summary>
   <br>
-  <small>I'm <b>Recal</b></small>
+  <small>I'm <b>Recal</b></small><br>
   <small>I am a Full Stack Developer.</small><br>
   <small>Pronouns: <b>He/Him</b></small><br>
   <small>
