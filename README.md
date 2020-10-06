@@ -44,14 +44,7 @@
  - C++<br>
  <br>
 </details>
-  
-<details><summary><b>Contact Info</b></summary>
-  <br>
-  <small>If my Discord doesn't work feel free to send me a message on twitter.</small><br>
-  Discord: <b>Recal#0230<b><br>
-  <br>
-</details>
-  
+    
 <details><summary><b>Links</b></summary>
   <br>
   <a href="https://www.typescriptlang.org/">Typescript</a><br>
