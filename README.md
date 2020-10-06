@@ -4,7 +4,7 @@
   <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img>
 </div>
 
-<br><details><summary><b>About Me</b></summary>
+<br><details open><summary><b>About Me</b></summary>
   <br>
   <small>I'm <b>Recal</b></small><br>
   <small>I am a Full Stack Developer.</small><br>
