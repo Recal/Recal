@@ -2,11 +2,11 @@
 
 <div align="center">
   <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img>
-  <h1>Hello! I'm Recal :wave:<h1>
 </div>
 
 <br><details><summary><b>About Me</b></summary>
   <br>
+  <small>I'm <b>Recal</b></small>
   <small>I am a Full Stack Developer.</small><br>
   <small>Pronouns: <b>He/Him</b></small><br>
   <small>
