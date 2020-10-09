@@ -14,7 +14,7 @@
   </small><br>
   <small>
     I'm currently working on: <b>Contributing to OSS</b><br>
-    I'm currently learning: <b>Typescript, Dart and Java.</b>
+    I'm currently learning: <b>Typescript and C++</b>
   </small><br>
   <small>
     Twitter: <a href="https://twitter.com/nerdrecal/">@nerdrecal</a>
