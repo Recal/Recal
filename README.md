@@ -24,10 +24,8 @@
   
 <details><summary><b>Github Stats</b></summary>
   <br>
-  <b>Github Stats</b><br>
-  <img src= "https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true"></img><br>
-  <b>Top Languages</b><br>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Recal&layout=compact"></img>
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true"></img><br>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recal&layout=compact"></img>
   <br>
 </details>
   
