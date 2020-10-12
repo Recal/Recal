@@ -31,25 +31,11 @@
   
 <details><summary><b>What languages do I use?</b></summary>
  <br>
- I use a lot of languages, but the main ones would be:<br>
- - D<br>
- - Dart<br>
- - Javascript<br>
- - Typescript<br>
- - C#<br>
- - Java<br>
- - C<br>
- - C++<br>
+ I actively use a lot of programming languages, but the main ones I use regularly are: Java, C#, C++, Typescript and Javascript.
  <br>
 </details>
     
-<details><summary><b>Links</b></summary>
-  <br>
-  <a href="https://www.typescriptlang.org/">Typescript</a><br>
-  <a href="https://dlang.org/">D</a><br>
-  <a href="https://dart.dev/">Dart</a>
-  <br>
-</details>
+
 
 
 
