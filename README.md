@@ -6,7 +6,7 @@
 
 <br><details open><summary><b>About Me</b></summary>
   <br>
-  :book: <small>I'm <b>Recal</b></small><br>
+  :book: <small>I'm <b>Recal (Re)</b></small><br>
   :tada: <small>I am a Full Stack Software Engineer.</small><br>
   :book: <small>Pronouns: <b>He/Him</b></small><br>
   :bookmark: <small>
