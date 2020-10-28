@@ -31,7 +31,7 @@
   
 <details><summary><b>What languages do I use?</b></summary>
  <br>
- I actively use a lot of programming languages, but the main ones I use regularly are: Java, C#, C++, Typescript and Javascript.
+ I actively use a lot of programming languages, but the main ones I use regularly are: Java, C#, C++, Python, Typescript and Javascript.
  <br>
 </details>
     
