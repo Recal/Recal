@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img>
+  <img src="https://www.pinclipart.com/picdir/middle/446-4464420_christmas-bells-with-mistletoe-png-clipart-image-gallery.png"></img>
 </div>
 
 <br><details open><summary><b>About Me</b></summary>
