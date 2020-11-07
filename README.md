@@ -22,7 +22,7 @@
 <br><details open><summary><b>About Me</b></summary>
   <br>
   :book: <small>I'm <b>Recal (Re)</b></small><br>
-  :tada: <small>I am a Full Stack Software Engineer.</small><br>
+  :tada: <small>I am a Full Stack Software Engineer</small><br>
   :book: <small>Pronouns: <b>He/Him</b></small><br>
   :bookmark: <small>
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">[Link Here]</a>
