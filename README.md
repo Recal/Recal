@@ -4,7 +4,7 @@
 <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img><br/>
 <h1>
 <div align="center">
-  Hello
+  Hello!
   <br/>
   <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=blue&style=flat">
