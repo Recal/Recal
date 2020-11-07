@@ -28,7 +28,7 @@
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">[Link Here]</a>
   </small><br>
   <small>
-    :four_leaf_clover: I'm currently working on: <b>Contributing to OSS</b><br>
+    :four_leaf_clover: I'm currently working on: <a href="https://github.com/loganlilypad/expresspy"><b>ExpressPY</b></a><br>
     :heart: I'm currently learning: <b>Typescript and C++</b>
   </small><br>
   <small>
