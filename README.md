@@ -2,14 +2,19 @@
 
 <div align="center">
 <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img><br/>
-
-<a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"></a>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=blue&style=flat">
-<img alt="Followers" src="https://img.shields.io/github/followers/Recal.svg?style=social&label=Follow&maxAge=2592000">
-<img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
-<br/>
-<img alt="" src="http://ForTheBadge.com/images/badges/winter-is-coming.svg">
-<img alt="" src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg">
+<h1>
+<div align="center">
+  Hello
+  <br/>
+  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=blue&style=flat">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Recal.svg?style=social&label=Follow&maxAge=2592000">
+  <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
+  <br/>
+  <img alt="" src="http://ForTheBadge.com/images/badges/winter-is-coming.svg">
+  <img alt="" src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg">
+</div>
+</h1>
 </div>
 
 <br><details open><summary><b>About Me</b></summary>
