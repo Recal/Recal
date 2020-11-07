@@ -11,8 +11,10 @@
   <img alt="Followers" src="https://img.shields.io/github/followers/Recal.svg?style=social&label=Follow&maxAge=2592000">
   <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
   <br/>
+  
   <img alt="" src="http://ForTheBadge.com/images/badges/winter-is-coming.svg">
-  <img alt="" src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg">
+  <img alt="" src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg"><br/>
+  <img alt="" src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </div>
 </h1>
 </div>
