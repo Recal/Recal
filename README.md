@@ -1,8 +1,8 @@
 
 
 <div align="center">
-  
-  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"></a>
+<img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img>
+<a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"></a>
 </div>
 
 <br><details open><summary><b>About Me</b></summary>
