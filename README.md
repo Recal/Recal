@@ -19,6 +19,8 @@
 </h1>
 </div>
 
+<div align="center"><b>If you need to contact me please do so through Twitter thanks!</b></div>
+
 <br><details open><summary><b>About Me</b></summary>
   <br>
   <small>I'm <b>Recal (Can also use: Re)</b></small><br>
