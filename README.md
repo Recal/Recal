@@ -55,7 +55,7 @@
   
 <details open><summary><b>What tools do I use?</b></summary>
  <br>
-  <b>Languages:</b> Typescript, Javascript, Java, C++, Python.<br>
+  <b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
   <b>Web:</b> Express, React, Vue<br>
   <b>Desktop:</b> Electron<br>
   <b>Mobile:</b> React Native<br>
