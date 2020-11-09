@@ -53,7 +53,7 @@
   <br>
 </details>
   
-<details><summary><b>What tools do I use?</b></summary>
+<details open><summary><b>What tools do I use?</b></summary>
  <br>
   <b>Languages:</b> Typescript, Javascript, Java, C++, Python.<br>
   <b>Web:</b> Express, React, Vue<br>
