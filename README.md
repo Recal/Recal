@@ -21,18 +21,18 @@
 
 <br><details open><summary><b>About Me</b></summary>
   <br>
-  :book: <small>I'm <b>Recal (Can also use: Re)</b></small><br>
-  :tada: <small>I am a Full Stack Software Engineer</small><br>
-  :book: <small>Pronouns: <b>He/Him</b></small><br>
-  :bookmark: <small>
+  <small>I'm <b>Recal (Can also use: Re)</b></small><br>
+  <small>I am a Full Stack Software Engineer</small><br>
+  <small>Pronouns: <b>He/Him</b></small><br>
+  <small>
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night"><b>[Link Here]</b></a>
   </small><br>
   <small>
-    :four_leaf_clover: I'm currently working on: <a href="https://github.com/loganlilypad/expresspy"><b>ExpressPY</b></a> and <a href="https://github.com/recal/rem"><b>Rem</b></a><br>
-    :heart: I'm currently learning: <b>Typescript and C++</b>
+    I'm currently working on: <a href="https://github.com/loganlilypad/expresspy"><b>ExpressPY</b></a> and <a href="https://github.com/recal/rem"><b>Rem</b></a><br>
+    I'm currently learning: <b>Typescript and C++</b>
   </small><br>
   <small>
-    :link: Twitter: <a href="https://twitter.com/nerdrecal/"><b>@nerdrecal</b></a>
+    Twitter: <a href="https://twitter.com/nerdrecal/"><b>@nerdrecal</b></a>
   </small>
   <br>
 </details>
