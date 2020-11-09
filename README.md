@@ -48,7 +48,7 @@
   
   <br>
   
-  <details open><summary><b>Top Languages</b></summary>
+  <details><summary><b>Top Languages</b></summary>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&theme=omni&layout=compact"></img>
   </details>
   
