@@ -8,7 +8,6 @@
   <br/>
   <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=blue&style=flat">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Recal.svg?style=social&label=Follow&maxAge=2592000">
   <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
   <br/>
   
