@@ -39,6 +39,18 @@
   <br>
 </details>
   
+<details open><summary><b>What tools do I use?</b></summary>
+ <br>
+  <b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
+  <b>Web:</b> Express, React, Vue<br>
+  <b>Desktop:</b> Electron<br>
+  <b>Mobile:</b> React Native<br>
+  <i>For Styling I use: Sass (Scss), and sometimes TailwindCSS but majority of the time I end up writing my own styles.</i><br><br>
+  You can see more about my tech stack <a href="https://stackshare.io/recal/stack"><b>[Here]</b></a> Although not everything I use is listed there.<br>
+  I like to play around with some new tools that come out, or I look at them out of curiosity but don't have time to list them all. 
+ <br>
+</details>  
+  
 <details><summary><b>Github Stats</b></summary>
   <br><br>
   
@@ -55,17 +67,6 @@
   <br>
 </details>
   
-<details open><summary><b>What tools do I use?</b></summary>
- <br>
-  <b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
-  <b>Web:</b> Express, React, Vue<br>
-  <b>Desktop:</b> Electron<br>
-  <b>Mobile:</b> React Native<br>
-  <i>For Styling I use: Sass (Scss), and sometimes TailwindCSS but majority of the time I end up writing my own styles.</i><br><br>
-  You can see more about my tech stack <a href="https://stackshare.io/recal/stack"><b>[Here]</b></a> Although not everything I use is listed there.<br>
-  I like to play around with some new tools that come out, or I look at them out of curiosity but don't have time to list them all. 
- <br>
-</details>
     
 
 
