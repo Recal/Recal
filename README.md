@@ -18,12 +18,12 @@
 </h1>
 </div>
 
-<div align="center"><b>If you need to contact me please do so through Twitter thanks!</b></div>
+<div align="center"><b>If you need to contact me please do so through Twitter thanks! ʕ•ᴥ•ʔ</b></div>
 
 <br><details open><summary><b>About Me</b></summary>
   <br>
   <small>I'm <b>Recal (Can also use: Re)</b></small><br>
-  <small>I am a Full Stack Software Engineer</small><br>
+  <small>(☞ﾟ∀ﾟ)☞ I am a Full Stack Software Engineer</small><br>
   <small>Pronouns: <b>He/Him</b></small><br>
   <small>
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night"><b>[Link Here]</b></a>
@@ -40,7 +40,7 @@
   
 <details open><summary><b>What tools do I use?</b></summary>
  <br>
-  <b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
+  <b>(☞ﾟ∀ﾟ)☞ Languages:</b> Typescript, Javascript, Java, C++, Python<br>
   <b>Web:</b> Express, React, Vue<br>
   <b>Desktop:</b> Electron<br>
   <b>Mobile:</b> React Native<br>
