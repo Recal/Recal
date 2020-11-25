@@ -23,7 +23,6 @@
 <br><details open><summary><b>About Me</b></summary>
   <br>
   <small>I'm <b>Recal (Can also use: Re)</b></small><br>
-  <small>(☞ﾟ∀ﾟ)☞ I am a Full Stack Software Engineer</small><br>
   <small>Pronouns: <b>He/Him</b></small><br>
   <small>
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night"><b>[Link Here]</b></a>
