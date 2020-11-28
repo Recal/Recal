@@ -28,7 +28,7 @@
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night"><b>[Link Here]</b></a>
   </small><br>
   <small>
-    I'm currently working on: <a href="https://github.com/loganlilypad/expresspy"><b>ExpressPY</b></a> and <a href="https://github.com/recal/rem"><b>Rem</b></a> along with some personal projects<br> 
+    I'm currently working on: <a href="https://github.com/loganlilypad/expresspy"><b>ExpressPY</b></a> along with some personal projects<br> 
     I'm currently learning: <b>Typescript and C++</b>
   </small><br>
   <small>
