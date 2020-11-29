@@ -19,7 +19,7 @@
 </div>
 
 <div align="center"><b>If you need to contact me please do so through Twitter thanks! ʕ•ᴥ•ʔ</b></div>
-<marquee>Suffocating in a whirlwind of a thousand emotions.</marquee>
+<div align="center">Suffocating in a whirlwind of a thousand emotions.</div>
 
 <br><details open><summary><b>About Me</b></summary>
   <br>
