@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Recal/Recal/blob/master/catjam.gif"></img><br/>
+<img src="https://github.com/Recal/Recal/blob/master/catjam.gif"/><br/>
 <h1>
 <div align="center">
   Hello!
