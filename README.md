@@ -50,7 +50,7 @@
 <img src="https://github.com/Recal/Recal/blob/master/a3.png"/>
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&icon_color=FFF&bg_color=65,E2006D,AF0055&title_color=FFF&text_color=FFF"></img>
   
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&bg_color=65,E2006D,AF0055&title_color=FFF&text_color=FFF&layout=compact"></img>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&bg_color=65,E2006D,AF0055&title_color=FFF&text_color=FFF&layout=compact&hide_border=true"></img>
   
   
     
