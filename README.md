@@ -46,20 +46,17 @@
   I like to play around with some new tools that come out, or I look at them out of curiosity but don't have time to list them all.</p>
  <br>
   
-  <br><br>
+  <br>
   
 <img src="https://github.com/Recal/Recal/blob/master/a3.png"/>
   <details><summary><b>Generic Stats</b></summary>
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&theme=omni"></img>
   </details>
   
-  <br>
-  
   <details><summary><b>Top Languages</b></summary>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&theme=omni&layout=compact"></img>
   </details>
   
-  <br>
   
     
 
