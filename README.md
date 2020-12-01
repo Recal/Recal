@@ -32,6 +32,7 @@
   <b>
     Twitter: <a href="https://twitter.com/nerdrecal/"><b>@nerdrecal</b></a>
   </b><br>
+  </b>
   </p>
   
   
