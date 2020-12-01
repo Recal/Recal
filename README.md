@@ -2,20 +2,17 @@
 
 <div align="center">
 <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"/><br/>
-<h1>
+<img src="https://github.com/Recal/Recal/blob/master/a4.png"/>
 <div align="center">
-  Hello!
   <br/>
-  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=blue&style=flat">
-  <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
+  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=ff69b4"></a>
+  <img alt="Yes Typescript" src="https://img.shields.io/badge/Typescript%3F-Yes!-ff69b4">
+  <img alt="Powered By Coffee" src="https://img.shields.io/badge/Powered%20By-Coffee-ff69b4">
+  <img alt="Fuck it Ship it" src="https://img.shields.io/badge/Fuck%20It-Ship%20It-ff69b4">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=ff69b4&style=flat">
+  <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/pink?icon=github">
   <br/>
-  
-  <img alt="" src="http://ForTheBadge.com/images/badges/winter-is-coming.svg">
-  <img alt="" src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg"><br/>
-  <img alt="" src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </div>
-</h1>
 </div>
 
 <div align="center"><b>If you need to contact me please do so through Twitter thanks! ʕ•ᴥ•ʔ</b></div>
