@@ -19,19 +19,22 @@
 <div align="center">Suffocating in a whirlwind of a thousand emotions.</div>
 <br><br>
 <img src="https://github.com/Recal/Recal/blob/master/a1.png"/>
-  <p>I'm <b>Recal (Can also use: Re)</b></p>
-  <p>Pronouns: <b>He/Him</b></p>
   <p>
+  <b>I'm <b>Recal (Can also use: Re)</b><br>
+  <b>Pronouns: <b>He/Him</b></b><br>
+  <b>
     Preferred Vscode Theme: <b>Tokyo Night</b> <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night"><b>[Link Here]</b></a>
-  </p>
-  <p>
+  </b><br>
+  <b>
     I'm currently working on: <a href="https://github.com/loganlilypad/expresspy"><b>ExpressPY</b></a> along with some personal projects<br> 
     I'm currently learning: <b>Typescript and C++</b>
-  </p>
-  <p>
+  </b><br>
+  <b>
     Twitter: <a href="https://twitter.com/nerdrecal/"><b>@nerdrecal</b></a>
+  </b><br>
   </p>
-
+  
+  
 <img src="https://github.com/Recal/Recal/blob/master/a2.png"/>
  <br>
   <p><b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
@@ -45,13 +48,9 @@
   <br>
   
 <img src="https://github.com/Recal/Recal/blob/master/a3.png"/>
-  <details><summary><b>Generic Stats</b></summary>
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&theme=omni"></img>
-  </details>
   
-  <details><summary><b>Top Languages</b></summary>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&theme=omni&layout=compact"></img>
-  </details>
   
   
     
