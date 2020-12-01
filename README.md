@@ -34,11 +34,10 @@
 
 <img src="https://github.com/Recal/Recal/blob/master/a2.png"/>
  <br>
-  <p><b>(☞ﾟ∀ﾟ)☞ Languages:</b> Typescript, Javascript, Java, C++, Python<br>
+  <p><b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
   <b>Web:</b> Express, React, Vue<br>
   <b>Desktop:</b> Electron<br>
-  <b>Mobile:</b> React Native<br>
-  <i>For Styling I use: Sass (Scss), and sometimes TailwindCSS but majority of the time I end up writing my own styles.</i><br><br>
+  <b>Mobile:</b> React Native<br><br>
   You can see more about my tech stack <a href="https://stackshare.io/recal/stack"><b>[Here]</b></a> Although not everything I use is listed there.<br>
   I like to play around with some new tools that come out, or I look at them out of curiosity but don't have time to list them all.</p>
  <br>
