@@ -5,12 +5,12 @@
 <img src="https://github.com/Recal/Recal/blob/master/a4.png"/>
 <div align="center">
   <br>
-  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=ff69b4"></a>
-  <img alt="Yes Typescript" src="https://img.shields.io/badge/Typescript%3F-Yes!-ff69b4">
-  <img alt="Powered By Coffee" src="https://img.shields.io/badge/Powered%20By-Coffee-ff69b4">
-  <img alt="Fuck it Ship it" src="https://img.shields.io/badge/Fuck%20It-Ship%20It-ff69b4">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=ff69b4&style=flat">
-  <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/pink?icon=github">
+  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=FF007B"></a>
+  <img alt="Yes Typescript" src="https://img.shields.io/badge/Typescript%3F-Yes!-FF007B">
+  <img alt="Powered By Coffee" src="https://img.shields.io/badge/Powered%20By-Coffee-FF007B">
+  <img alt="Fuck it Ship it" src="https://img.shields.io/badge/Fuck%20It-Ship%20It-FF007B">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=FF007B&style=flat">
+  <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/FF007B?icon=github">
   <br>
 </div>
 </div>
