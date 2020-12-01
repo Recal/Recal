@@ -20,7 +20,7 @@
 
 <div align="center"><b>If you need to contact me please do so through Twitter thanks! ʕ•ᴥ•ʔ</b></div>
 <div align="center">Suffocating in a whirlwind of a thousand emotions.</div>
-
+<br><br>
 <img src="https://github.com/Recal/Recal/blob/master/a1.png"/>
   <p>I'm <b>Recal (Can also use: Re)</b></p>
   <p>Pronouns: <b>He/Him</b></p>
