@@ -6,7 +6,7 @@
 <div align="center">
   <br>
   <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=FF007B"></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=FF007B&style=flat">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=FF007B&style=flat"><br>
   <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/FF007B?icon=github">
   <br>
 </div>
