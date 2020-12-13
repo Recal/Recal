@@ -6,9 +6,6 @@
 <div align="center">
   <br>
   <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=FF007B"></a>
-  <img alt="Yes Typescript" src="https://img.shields.io/badge/Typescript%20%3F%20-Yes!-FF007B">
-  <img alt="Powered By Coffee" src="https://img.shields.io/badge/Powered%20By-Coffee-FF007B">
-  <img alt="Fuck it Ship it" src="https://img.shields.io/badge/Fuck%20It-Ship%20It-FF007B">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=FF007B&style=flat">
   <img alt="I <3 Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/FF007B?icon=github">
   <br>
