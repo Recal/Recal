@@ -24,7 +24,7 @@
   </b><br>
   <b>
     I'm currently working on: <a href="https://github.com/loganlilypad/expresspy"><b>ExpressPY</b></a> along with some personal projects<br> 
-    I'm currently learning: <b>Typescript and C++</b>
+    I'm currently learning: <b>Typescript, C++ and Rust :crab:</b>
   </b><br>
   <b>
     Twitter: <a href="https://twitter.com/nerdrecal/"><b>@nerdrecal</b></a>
