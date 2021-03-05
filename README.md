@@ -4,9 +4,9 @@
 <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"/><br/>
 <div align="center">
   <br>
-  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=FF007B"></a>
+  <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=5baddf"></a>
   <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=FF007B&style=flat">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=recal&color=5baddf&style=flat">
   <br>
 </div>
 </div>
@@ -38,9 +38,9 @@
   You can see more about my tech stack <a href="https://stackshare.io/recal/stack"><b>[Here]</b></a> Although not everything I use is listed there.<br>
   I like to play around with some new tools that come out, or I look at them out of curiosity but don't have time to list them all.</p>
  <br>
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&icon_color=FFF&theme=radical"></img>
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&text_color=5baddf&icon_color=FFF&theme=tokyonight"></img>
   
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&theme=radical&layout=compact&hide_border=true"></img>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&theme=tokyonight&text_color=FFF&layout=compact&hide_border=true"></img>
   
   
     
