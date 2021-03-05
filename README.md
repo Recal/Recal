@@ -2,7 +2,6 @@
 
 <div align="center">
 <img src="https://github.com/Recal/Recal/blob/master/catjam.gif"/><br/>
-<img src="https://github.com/Recal/Recal/blob/master/a4.png"/>
 <div align="center">
   <br>
   <a href="https://stackshare.io/recal/stack"><img alt="Stackshare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&color=FF007B"></a>
@@ -12,10 +11,7 @@
 </div>
 </div>
 <br>
-<div align="center"><b>If you need to contact me please do so through Twitter thanks! ʕ•ᴥ•ʔ</b></div>
-<div align="center">Suffocating in a whirlwind of a thousand emotions.</div>
-<br><br>
-<img src="https://github.com/Recal/Recal/blob/master/a1.png"/>
+<h1>About Me</h1>
   <p>
   <b>I'm <b>Recal (Can also use: Re)</b><br>
   <b>Pronouns: <b>He/Him</b></b><br>
@@ -27,13 +23,13 @@
     I'm currently learning: <b>Typescript, C++ and Rust :crab:</b>
   </b><br>
   <b>
-    Twitter: <a href="https://twitter.com/nerdrecal/"><b>@nerdrecal</b></a>
+    Twitter: <a href="https://twitter.com/imrecal/"><b>@imrecal</b></a>
   </b><br>
   </b>
   </p>
   
   
-<img src="https://github.com/Recal/Recal/blob/master/a2.png"/>
+<h1>Stats & Tooling</h1>
  <br>
   <p><b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
   <b>Web:</b> Express, React, Vue<br>
@@ -42,13 +38,9 @@
   You can see more about my tech stack <a href="https://stackshare.io/recal/stack"><b>[Here]</b></a> Although not everything I use is listed there.<br>
   I like to play around with some new tools that come out, or I look at them out of curiosity but don't have time to list them all.</p>
  <br>
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&icon_color=FFF&theme=radical"></img>
   
-  <br>
-  
-<img src="https://github.com/Recal/Recal/blob/master/a3.png"/>
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Recal&show_icons=true&hide_border=true&count_private=true&icon_color=FFF&bg_color=65,E2006D,AF0055&title_color=FFF&text_color=FFF"></img>
-  
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&bg_color=65,E2006D,AF0055&title_color=FFF&text_color=FFF&layout=compact&hide_border=true"></img>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recal&theme=radical&layout=compact&hide_border=true"></img>
   
   
     
