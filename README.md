@@ -30,7 +30,6 @@
   
   
 <h1>Stats & Tooling</h1>
- <br>
   <p><b>Languages:</b> Typescript, Javascript, Java, C++, Python<br>
   <b>Web:</b> Express, React, Vue<br>
   <b>Desktop:</b> Electron<br>
